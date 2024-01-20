@@ -9,10 +9,12 @@ namespace API_PDV.Repositorios
     public class UsuarioRepo : UiUsuario
     {
         private readonly SistemaTarefaDB _dbContext;
+        //metodo de tarefa de conexao com database
         public UsuarioRepo(SistemaTarefaDB SistemaTarefaDB) 
         { 
             _dbContext = SistemaTarefaDB;
         }
+        //Metodo
         public async Task<UsuarioModel> BuscarPorId(int id)
         {
             return await _dbContext.Usuarios.FirstOrDefaultAsync(x => x.Id == id);

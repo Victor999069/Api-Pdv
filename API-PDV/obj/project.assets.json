@@ -2227,23 +2227,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Comercial\\.nuget\\packages\\": {},
+    "C:\\Users\\regin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Comercial\\Desktop\\API-PDV\\API-PDV\\API-PDV.csproj",
+      "projectUniqueName": "C:\\Users\\regin\\Source\\Repos\\Api-Pdv\\API-PDV\\API-PDV.csproj",
       "projectName": "API-PDV",
-      "projectPath": "C:\\Users\\Comercial\\Desktop\\API-PDV\\API-PDV\\API-PDV.csproj",
-      "packagesPath": "C:\\Users\\Comercial\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Comercial\\Desktop\\API-PDV\\API-PDV\\obj\\",
+      "projectPath": "C:\\Users\\regin\\Source\\Repos\\Api-Pdv\\API-PDV\\API-PDV.csproj",
+      "packagesPath": "C:\\Users\\regin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\regin\\Source\\Repos\\Api-Pdv\\API-PDV\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Comercial\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\regin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
