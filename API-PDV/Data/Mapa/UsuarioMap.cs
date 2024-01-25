@@ -16,7 +16,7 @@ namespace API_PDV.Data.Mapa
             builder.Property(x => x.Cep).IsRequired().HasMaxLength(10);
             builder.Property(x => x.Email).IsRequired().HasMaxLength(150);
             builder.Property(x => x.Celular).IsRequired().HasMaxLength(25);
-
+            builder.HasKey(x => x.TipoCliente);
         }
     }
 }

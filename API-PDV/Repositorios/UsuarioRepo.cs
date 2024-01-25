@@ -14,7 +14,7 @@ namespace API_PDV.Repositorios
         { 
             _dbContext = SistemaTarefaDB;
         }
-        //Metodo
+        
         public async Task<UsuarioModel> BuscarPorId(int id)
         {
             return await _dbContext.Usuarios.FirstOrDefaultAsync(x => x.Id == id);

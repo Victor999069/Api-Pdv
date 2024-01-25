@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\regin\\Source\\Repos\\Api-Pdv\\API-PDV\\API-PDV.csproj": {}
+    "C:\\Users\\regin\\source\\repos\\Api-Pdv\\API-PDV\\API-PDV.csproj": {}
   },
   "projects": {
-    "C:\\Users\\regin\\Source\\Repos\\Api-Pdv\\API-PDV\\API-PDV.csproj": {
+    "C:\\Users\\regin\\source\\repos\\Api-Pdv\\API-PDV\\API-PDV.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\regin\\Source\\Repos\\Api-Pdv\\API-PDV\\API-PDV.csproj",
+        "projectUniqueName": "C:\\Users\\regin\\source\\repos\\Api-Pdv\\API-PDV\\API-PDV.csproj",
         "projectName": "API-PDV",
-        "projectPath": "C:\\Users\\regin\\Source\\Repos\\Api-Pdv\\API-PDV\\API-PDV.csproj",
+        "projectPath": "C:\\Users\\regin\\source\\repos\\Api-Pdv\\API-PDV\\API-PDV.csproj",
         "packagesPath": "C:\\Users\\regin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\regin\\Source\\Repos\\Api-Pdv\\API-PDV\\obj\\",
+        "outputPath": "C:\\Users\\regin\\source\\repos\\Api-Pdv\\API-PDV\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

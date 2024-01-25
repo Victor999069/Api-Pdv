@@ -1,4 +1,6 @@
-﻿namespace API_PDV.Models
+﻿using API_PDV.Enums;
+
+namespace API_PDV.Models
 {
     public class UsuarioModel
     {
@@ -16,6 +18,6 @@
         public string Celular { get; set; }
         public string Email { get; set; }
         public string? Observacoes { get; set; }
-
+        public EnumsUsua TipoCliente { get; set; }
     }
 }
